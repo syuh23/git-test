@@ -8,6 +8,7 @@ async function getLogin(req, res, next){
     return res.status(getlogin_data.Status).json(getlogin_data)
 }
 
+
 module.exports = {
     getLogin
 }
