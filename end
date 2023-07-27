@@ -1,0 +1,47 @@
+[33mcommit 6340a8c006a6ad60444c7b84661c8b829281ceeb[m[33m ([m[1;36mHEAD -> [m[1;32mtoy_1[m[33m, [m[1;31mtoy/toy_1[m[33m)[m
+Author: syuh <seonghee5070@gmail.com>
+Date:   Thu Jul 27 17:22:01 2023 +0900
+
+    toy_1
+
+[33mcommit db7230a774503ee5f1f8a128a1e3a0e663e25c0e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: 안수민 <20201052@vision.hoseo.edu>
+Date:   Thu Jul 27 12:39:57 2023 +0900
+
+    GET login API
+
+[33mcommit 405180384c8702296788c27ddcf0a102f24302bf[m
+Author: 안수민 <20201052@vision.hoseo.edu>
+Date:   Wed Jul 26 16:14:47 2023 +0900
+
+    삭제된 파일
+
+[33mcommit 9707384e80f8a8c9ac881a8aa0921e6e55969184[m
+Author: 안수민 <20201052@vision.hoseo.edu>
+Date:   Wed Jul 26 16:13:49 2023 +0900
+
+    readme 수정
+
+[33mcommit c1f7d77e4b3475589a07f829c422508e0020e91d[m
+Author: 안수민 <20201052@vision.hoseo.edu>
+Date:   Wed Jul 26 15:44:36 2023 +0900
+
+    nodejs 초기세팅
+
+[33mcommit 6cc385a884b9f8f60cdefa47eb7ff3ab4fc210d2[m
+Author: 안수민 <20201052@vision.hoseo.edu>
+Date:   Wed Jul 26 15:34:20 2023 +0900
+
+    nodejs 초기 세팅
+
+[33mcommit 09b4d13e5a098016c84b78547ac7fb1ad3485a92[m
+Author: sumin <88326586+zjarhdsumin@users.noreply.github.com>
+Date:   Wed Jul 26 15:24:23 2023 +0900
+
+    Update README.md
+
+[33mcommit c2fd9f161a3879b30a22045627884045ca0ede5d[m
+Author: sumin <88326586+zjarhdsumin@users.noreply.github.com>
+Date:   Wed Jul 26 15:24:00 2023 +0900
+
+    Initial commit
